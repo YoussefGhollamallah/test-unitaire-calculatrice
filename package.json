@@ -1,0 +1,27 @@
+{
+  "name": "test-unitaire-calculatrice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoussefGhollamallah/test-unitaire-calculatrice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YoussefGhollamallah/test-unitaire-calculatrice/issues"
+  },
+  "homepage": "https://github.com/YoussefGhollamallah/test-unitaire-calculatrice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
